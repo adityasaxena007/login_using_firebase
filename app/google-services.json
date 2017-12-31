@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1053081035439",
+    "firebase_url": "https://exersize-3f112.firebaseio.com",
+    "project_id": "exersize-3f112",
+    "storage_bucket": "exersize-3f112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053081035439:android:2e4d7bcfdd8a760d",
+        "android_client_info": {
+          "package_name": "com.example.adity.bid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053081035439-ogt5mqfar3nj5cu5r3pq2cmlfu4p8r9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjBPSDPsfR_jkq3JG7WQmiWgZKbfxAHjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

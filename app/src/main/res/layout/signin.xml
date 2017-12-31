@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:hint="Enter Email"
+        android:id="@+id/email"
+        android:textColorHighlight="#ffffff"
+        android:layout_marginLeft="10dp"
+        android:layout_height="40dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_marginTop="2dp"
+        android:id="@+id/pass"
+        android:textColorHighlight="#ffffff"
+        android:layout_marginLeft="10dp"
+        android:inputType="textPassword"
+        android:hint="Enter Password"
+        android:layout_height="40dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:id="@+id/signin"
+        android:textColorHighlight="#ffffff"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+
+        android:text="Sign-In"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forgot Password?" />
+
+
+</LinearLayout>
